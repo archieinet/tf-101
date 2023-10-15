@@ -3,4 +3,4 @@ database_private_ip = "10.255.2.253"
 
 
 tfc_organization = "archariya"
-tfc_workspace_tag = "ws-FQjZfg5kdDQUEm4z"
+tfc_workspace_tag = "ll-aws-hc"
