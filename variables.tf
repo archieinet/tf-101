@@ -87,8 +87,3 @@ variable "tfc_workspace_tag" {
   description = "Name of Terraform Cloud Tag. All created workspaces share this tag."
   type = string
 }
-
-variable "tfc_workspace_tag" {
- description = "Name of Tf cloud tag. All created workspaces share this tag." 
- type = string
-}
